@@ -1,0 +1,6 @@
+temp = input()
+print(temp[0])
+print(temp[1])
+print(temp[2])
+print(temp[3])
+print(temp[4])
